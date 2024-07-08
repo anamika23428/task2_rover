@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: task2_pack
+Description: Description of task2_pack
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

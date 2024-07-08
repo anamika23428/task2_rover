@@ -1,0 +1,8 @@
+prefix=/home/anamika/task2_ws/src/task2_pack/build/devel
+
+Name: task2_pack
+Description: Description of task2_pack
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
