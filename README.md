@@ -15,7 +15,7 @@ I followed [http://wiki.ros.org/navigation/Tutorials/Writing%20A%20Global%20Path
 
  After following [http://wiki.ros.org/navigation/Tutorials/Writing%20A%20Global%20Path%20Planner%20As%20Plugin%20in%20ROS] my plugin was ready to use in which i just write algo for straight path.
 
- ![Image Alt Text](images/plugin.png)
+ ![Image Alt Text](plugin.png)
 
  
  
